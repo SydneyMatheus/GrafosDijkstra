@@ -566,8 +566,7 @@ int main()
     peso=dijkstra;
 
     cout<<endl<<"Vértice de inicio: "<<vetInicial<<endl;
-    int a = 1/0;
-    cout<<a;
+
     if(vetBusca!= -1)
     {
         cout<<endl<<"Vértice a ser buscado: "<<vetBusca<<endl;
