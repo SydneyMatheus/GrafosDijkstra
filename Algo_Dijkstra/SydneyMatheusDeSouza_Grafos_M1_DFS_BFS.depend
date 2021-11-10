@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1599654002 source:c:\users\sydne\onedrive - univali\Área de trabalho\test\sydneymatheusdesouza_grafos_m1_dfs_bfs\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1601146720 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m1\algoritmos\ex 2 v1 - conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1601168672 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m1\algoritmos\ex 2 v2 - conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1601214520 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m1\algoritmos\ex 2 v3 - conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1601219177 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m1\algoritmos\ex 2 v4 - conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1601426609 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m1\algoritmos\ex 2 v5 - conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1601444865 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m1\algoritmos\ex 2 v6 - conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1601444997 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m1\algoritmos\sydneymatheusdesouza_grafos_m1_conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+
+1603112659 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m2\dijkstra\algoritmos\sydneymatheusdesouza_grafos_m1_conexo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+	<numeric>
+	<algorithm>
+
+1603196414 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m2\dijkstra\algoritmos\algo dijkstra v2\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+	<numeric>
+	<algorithm>
+
+1603236116 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m2\dijkstra\algoritmos\algo dijkstra v3\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+	<numeric>
+	<algorithm>
+
+1606689412 source:c:\users\sydne\onedrive - univali\Área de trabalho\univali\6 periodo\matérias\grafos\m2\dijkstra\algoritmos\sydneymdesouza_m2_dijkstra\sydneymatheusdesouza_grafos_m2_dijkstra\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<locale>
+	<sstream>
+	<numeric>
+	<algorithm>
+
